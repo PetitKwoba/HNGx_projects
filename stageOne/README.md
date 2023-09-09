@@ -1,19 +1,17 @@
-# HNGx_projects
-
-Dear Interns,
-Welcome onboard!
-FRONT-END TRACK
-STAGE ONE TASK
-Task: Frontend Page Creation with Specific Elements
+#STAGE ONE TASK
+##Task: Frontend Page Creation with Specific Elements
 Objective: Develop and host a web page using HTML, CSS and JS that showcases specific personal and real-time data attributes. Each required element should have a specified data-testid attribute for easy identification and testing.
 Requirements:
-Slack Name:
-Display your Slack name prominently.
+    
+Slack Name: Display your Slack name prominently. 
 Attribute: data-testid="slackUserName"
+
 Slack Display Picture: Showcase your Slack profile picture.
 The image's alt attribute should be your Slack username.
 Attribute: data-testid="slackDisplayImage"
+
 Current Day of the Week: Indicate the current day of the week (e.g., Monday, Tuesday). Attribute: data-testid="currentDayOfTheWeek"
+
 Current UTC Time: Display the current UTC time. Attribute: data-testid="currentUTCTime"
 
 Track: Mention your track (e.g Frontend). Attribute: data-testid="myTrack"
